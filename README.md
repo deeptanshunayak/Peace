@@ -27,57 +27,13 @@
 -   Gemini
 -   BERT
 
-## Quick Links
 
--   [Live Website](https://thegreenfootprint.vercel.app/)
--   [Main GitHub Repository](https://github.com/Trident09/SDG-SustainX)
--   [Image Detection Custom Model (Google Colab)](https://colab.research.google.com/drive/1KRX8xM92F412yThksh9jnngM6zE1b5eY?usp=sharing)
--   [NLP Sustainability Model (BERT) Google Colab](https://colab.research.google.com/drive/1J5_52NrQbPbcmKfUIwg_c3E_pYPALSbr?usp=sharing)
--   [Project Demo Video](https://www.youtube.com/watch?v=EhBQ25P-2ik)
-
-## Project Demo
-
-[![The Green Footprint Demo](https://img.youtube.com/vi/EhBQ25P-2ik/0.jpg)](https://www.youtube.com/watch?v=EhBQ25P-2ik)
-
-## Usage
-
-Clone the repository:
-
-```shell
-git clone https://github.com/Trident09/SDG-SustainX.git
-cd SDG-SustainX
 ```
 
-### Data Analytics Dashboard
 
-The dashboard can be accessed through the Streamlit app. Ensure you have all dependencies installed:
 
-```bash
-pip install -r requirements.txt
-streamlit run Hello.py
-```
 
-### Computer Vision Model
 
-Please refer to the Google Colab notebook for the custom CNN implementation and its usage:
-
-[Image Detection Custom Model (Google Colab)](https://colab.research.google.com/drive/1KRX8xM92F412yThksh9jnngM6zE1b5eY?usp=sharing)
-
-### NLP BERT Model
-
-For using the NLP model, navigate to the Google Colab notebook:
-
-[NLP Sustainability Model (BERT) Google Colab](https://colab.research.google.com/drive/1J5_52NrQbPbcmKfUIwg_c3E_pYPALSbr?usp=sharing)
-
-## Contributions
-
-Contributions are welcome! Please feel free to submit a pull request or create an issue if you have suggestions for improvements.
-
-## Team
-
-| <img src="https://avatars.githubusercontent.com/u/98939183?v=4" width="100" height="100"> | <img src="https://avatars.githubusercontent.com/u/43810146?v=4" width="100" height="100"> |
-| :---------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
-|                         [Trident09](https://github.com/Trident09)                         |                        [error9098x](https://github.com/error9098x)                        |
 
 ## License
 
